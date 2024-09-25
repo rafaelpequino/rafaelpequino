@@ -1,5 +1,5 @@
 ## Olá! 👋 Muito prazer, sou o Rafael Pequino
-Técnico em Desenvolvimento de Sistemas, estudante de Engenharia de Computação e desenvolvedor estagiário do CRECISP
+Técnico em Desenvolvimento de Sistemas, estudante de 'Engenharia de Computação' e 'Análise e Desenvolvimento de Sistemas' e desenvolvedor estagiário do CRECISP e da Voxel Digital
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
