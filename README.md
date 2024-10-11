@@ -1,13 +1,13 @@
 ## Olá! 👋 Muito prazer, sou o Rafael Pequino
-| Técnico em Desenvolvimento de Sistemas
-| Futuro Engenheiro da Computação
-| Estudante de Análise e Desenvolvimento de Sistemas
-| Desenvolvedor fullstack estagiário no CRECISP
-| Desenvolvedor frontend da Voxel Digital
+🖥️ | Técnico em Desenvolvimento de Sistemas <br/>
+⚙️ | Futuro Engenheiro da Computação <br/>
+💻 | Estudante de Análise e Desenvolvimento de Sistemas <br/>
+🏢 | Desenvolvedor fullstack estagiário no CRECISP <br/>
+✨ | Desenvolvedor frontend da Voxel Digital
 
 <div style="display: inli_block">
 
-<h2>SoftSkills</h2>
+<h2>Softskills</h2>
 
 ![Resolução de problemas](https://img.shields.io/badge/Resolu%C3%A7%C3%A3o_de_problemas-FF6347?style=for-the-badge)
 ![Adaptabilidade](https://img.shields.io/badge/Adaptabilidade-4682B4?style=for-the-badge)
@@ -22,7 +22,7 @@
 ![Foco](https://img.shields.io/badge/Foco-4682B4?style=for-the-badge)
 ![Facilidade de aprendizado](https://img.shields.io/badge/Facilidade_de_aprendizado-00CED1?style=for-the-badge)
 
-<h2>HardSkills</h2>
+<h2>Hardskills</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
