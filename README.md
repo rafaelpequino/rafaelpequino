@@ -2,7 +2,6 @@
 🖥️ | Técnico em Desenvolvimento de Sistemas <br/>
 ⚙️ | Futuro Engenheiro da Computação <br/>
 💻 | Estudante de Análise e Desenvolvimento de Sistemas <br/>
-🏢 | Desenvolvedor fullstack estagiário no CRECISP <br/>
 ✨ | Desenvolvedor frontend da Voxel Digital
 
 <div style="display: inli_block">
