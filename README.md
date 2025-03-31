@@ -2,7 +2,8 @@
 🖥️ | Técnico em Desenvolvimento de Sistemas <br/>
 ⚙️ | Futuro Engenheiro da Computação <br/>
 💻 | Estudante de Análise e Desenvolvimento de Sistemas <br/>
-✨ | Desenvolvedor frontend da Voxel Digital
+✨ | Desenvolvedor frontend da Voxel Digital <br/>
+👨🏽‍💻 | Líder da equipe dev do Comitê das Engenharias Senac
 
 <div style="display: inli_block">
   
