@@ -5,6 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Nice+to+meet+you!;I'm+a+Frontend+Developer+at+Voxel+Digital.;Computer+Engineering+student+%F0%9F%92%BB;Team+Leader+at+Senac+Engineering+Committee" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+
 ---
 
 ### 🧠 About Me
@@ -17,36 +22,17 @@
 
 ---
 
-### 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,react,next,bootstrap,html,css,tailwind,php,py,dotnet,csharp,mysql,sqlite,postgres,git" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelpequino&show_icons=true&theme=radical" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpequino&layout=compact&theme=radical" />
 </div>
 
 ---
-
-### 🏆 Achievements & Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafaelpequino&theme=dracula&no-frame=true&column=4" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelpequino&theme=dracula" />
-</p>
-
----
-
-### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://instagram.com/rafael.pequino" target="_blank">
@@ -62,16 +48,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-### 🎥 Just a vibe...
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
