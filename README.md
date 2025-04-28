@@ -1,5 +1,5 @@
 <h1 align="center">Hey! 👋 I'm Rafael Pequino</h1>
-<p align="center">💻 Frontend Developer | 💡 Tech Enthusiast | 🎓 Future Computer Engineer</p>
+<p align="center">💻 Fullstack Developer | 💡 Tech Enthusiast | 🎓 Future Computer Engineer</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Nice+to+meet+you!;I'm+a+Frontend+Developer+at+Voxel+Digital.;Computer+Engineering+student+%F0%9F%92%BB;Team+Leader+at+Senac+Engineering+Committee" alt="Typing SVG" />
